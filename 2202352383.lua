@@ -1,2 +1,2 @@
-warn("This script not working!")
-warn("Sorry")
+print("This script not working!")
+print("Sorry")
